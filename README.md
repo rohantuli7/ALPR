@@ -1,6 +1,6 @@
 # ALPR
 
-**An ANPR system identifies the characters and numbers present on the license plate and stores them in a string. This allows the authorities to match the string in the pre-existing database and seamlessly, add a fine to the profile of the violator. ANPR too has its own limitations such as illumination, speed of car, non-uniform license plate and language of number plate. These limitations affect the overall acceptance rate of the system. In this project, we have created an Automatic Number Plate Recognition system.**
+An ANPR system identifies the characters and numbers present on the license plate and stores them in a string. This allows the authorities to match the string in the pre-existing database and seamlessly, add a fine to the profile of the violator. ANPR too has its own limitations such as illumination, speed of car, non-uniform license plate and language of number plate. These limitations affect the overall acceptance rate of the system. In this project, we have created an Automatic Number Plate Recognition system.
 
 # Implementation
 
